@@ -37,4 +37,5 @@ Icon
 *.cache
 
 bin/*
+obj/*
 *.suo
