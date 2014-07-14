@@ -36,4 +36,5 @@ Icon
 
 *.cache
 
-bin/
+bin/*
+*.suo
